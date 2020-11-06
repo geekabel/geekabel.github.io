@@ -29,6 +29,14 @@ $(document).ready(function(e) {
 		function pauseAudio() { 
 		  audio.pause(); 
 		} 
+		// function onPlayClick(e){
+		// 	$(this).hide();
+		// 	$('#pause').show();
+		// }
+		// function onPauseClick(){
+		// 	$(this).hide();
+		// 	$('#play').show();
+		// }
 		$('#play').click(function(e) {
 			$(this).hide();
 			$('#pause').show();
@@ -37,3 +45,7 @@ $(document).ready(function(e) {
 			$(this).hide();
 			$('#play').show();
 		});
+// $(function(){
+// $('#play').on('click',onPlayClick);
+// $('#pause').on('click',onPauseClick);
+// });

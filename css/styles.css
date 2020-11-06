@@ -128,7 +128,7 @@ header .logo img {
 	z-index: 999;
 	background: #f3f5f6;
 }
-.navigation. nav, .navigation nav ul, .navigation nav ul li, .navigation nav ul li a {
+.navigation.nav, .navigation nav ul, .navigation nav ul li, .navigation nav ul li a {
  display: block;
  width: 100%;
 }
