@@ -1,4 +1,4 @@
-## Git command (I use everyting)
+## Git command (I use everytime)
 Verify the local branch has the correct name
 - git branch -a
 - git push origin ––delete old-name
