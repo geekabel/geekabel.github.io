@@ -10,4 +10,4 @@ Verify the local branch has the correct name
  ## Remove git remote (le lien de la repo)
 
  - git remote rm <remote-name>
- - git remote show <remote-name> command (afficher la remote)
+ - git remote show <remote-name> command (afficher le nom remote)
